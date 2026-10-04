@@ -39,7 +39,6 @@ apis:
   - name: openSenseMap
     description: "Data from Personal Weather Stations called senseBoxes"
     humanURL: https://api.opensensemap.org/
-    baseURL: https://api.opensensemap.org/
     tags:
       - Weather
     properties:
